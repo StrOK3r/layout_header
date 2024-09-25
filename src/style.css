@@ -9,7 +9,8 @@ p {
   padding: 0;
 }
 
-ul, ol {
+ul,
+ol {
   list-style: none;
 }
 
@@ -20,7 +21,7 @@ a {
 
 html {
   font-family: 'Roboto', sans-serif;
-  color: black;
+  color: #000;
 }
 
 body {
@@ -31,13 +32,15 @@ body {
   padding: 0 50px;
   background-color: #fff;
   display: flex;
+  justify-content: space-between;
   align-items: center;
-
 }
 
-.logo {}
+.logo {
+}
 
-.nav {}
+.nav {
+}
 
 .nav__list {
   display: flex;
@@ -45,7 +48,6 @@ body {
 
 .nav__item {
   margin-left: 20px;
-  
   display: flex;
 }
 
@@ -63,10 +65,9 @@ body {
   transition: color 250ms ease-in-out;
 }
 
-.nav__item:first-child{
+.nav__item:first-child {
   margin: 0;
 }
-
 .nav__link:hover {
-  color: #00acdc; 
+  color: #00acdc;
 }

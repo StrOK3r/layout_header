@@ -1,5 +1,5 @@
 # Moyo header
-Create HTML page with the header using `flexbox` based on the [Figma Mockup](https://www.figma.com/file/1sog2rmfyCjnVxkeZ3ptnc/MOYO-%2F-Header?node-id=0%3A1&mode=dev).
+Create HTML page with the header using `flexbox` based on the [Figma Mockup](https://www.figma.com/file/ojkArVazq7vsX0nbpn9CxZ/Moyo-%2F-Catalog-(ENG)?node-id=11325%3A2287&mode=dev).
 
 The page should match the design Pixel Perfect: all the sizes, colors and distanced MUST be the same as on the design.
 
